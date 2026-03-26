@@ -111,7 +111,7 @@ python main.py
 
 ## 👤 Author
 
-Shankar
+Uday Shankar Reddy
 
 ---
 
